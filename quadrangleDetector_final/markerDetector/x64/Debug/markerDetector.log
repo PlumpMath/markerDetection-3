@@ -1,0 +1,32 @@
+﻿  main.cpp
+c:\opencv3.1\build\install\include\opencv2\core\mat.hpp(2603): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+c:\opencv3.1\build\install\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+c:\opencv3.1\build\install\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+c:\opencv3.1\build\install\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+c:\opencv3.1\build\install\include\opencv2\imgproc.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+c:\opencv3.1\build\install\include\opencv2\imgproc.hpp(595): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+c:\users\sola\documents\visual studio 2015\projects\quadrangledetector - 복사본\markerdetector\main.cpp(87): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sola\documents\visual studio 2015\projects\quadrangledetector - 복사본\markerdetector\main.cpp(88): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sola\documents\visual studio 2015\projects\quadrangledetector - 복사본\markerdetector\main.cpp(116): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sola\documents\visual studio 2015\projects\quadrangledetector - 복사본\markerdetector\main.cpp(117): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sola\documents\visual studio 2015\projects\quadrangledetector - 복사본\markerdetector\main.cpp(183): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sola\documents\visual studio 2015\projects\quadrangledetector - 복사본\markerdetector\main.cpp(184): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sola\documents\visual studio 2015\projects\quadrangledetector - 복사본\markerdetector\main.cpp(185): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sola\documents\visual studio 2015\projects\quadrangledetector - 복사본\markerdetector\main.cpp(229): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\sola\documents\visual studio 2015\projects\quadrangledetector - 복사본\markerdetector\main.cpp(314): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\sola\documents\visual studio 2015\projects\quadrangledetector - 복사본\markerdetector\main.cpp(339): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\sola\documents\visual studio 2015\projects\quadrangledetector - 복사본\markerdetector\main.cpp(340): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\sola\documents\visual studio 2015\projects\quadrangledetector - 복사본\markerdetector\main.cpp(348): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\sola\documents\visual studio 2015\projects\quadrangledetector - 복사본\markerdetector\main.cpp(373): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\sola\documents\visual studio 2015\projects\quadrangledetector - 복사본\markerdetector\main.cpp(416): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sola\documents\visual studio 2015\projects\quadrangledetector - 복사본\markerdetector\main.cpp(417): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sola\documents\visual studio 2015\projects\quadrangledetector - 복사본\markerdetector\main.cpp(418): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sola\documents\visual studio 2015\projects\quadrangledetector - 복사본\markerdetector\main.cpp(428): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\sola\documents\visual studio 2015\projects\quadrangledetector - 복사본\markerdetector\main.cpp(431): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\sola\documents\visual studio 2015\projects\quadrangledetector - 복사본\markerdetector\main.cpp(684): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\sola\documents\visual studio 2015\projects\quadrangledetector - 복사본\markerdetector\main.cpp(763): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\sola\documents\visual studio 2015\projects\quadrangledetector - 복사본\markerdetector\main.cpp(797): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\sola\documents\visual studio 2015\projects\quadrangledetector - 복사본\markerdetector\main.cpp(966): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\sola\documents\visual studio 2015\projects\quadrangledetector - 복사본\markerdetector\main.cpp(973): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  markerDetector.vcxproj -> C:\Users\sola\Documents\Visual Studio 2015\Projects\quadrangleDetector - 복사본\x64\Debug\markerDetector.exe
+  markerDetector.vcxproj -> C:\Users\sola\Documents\Visual Studio 2015\Projects\quadrangleDetector - 복사본\x64\Debug\markerDetector.pdb (Full PDB)
