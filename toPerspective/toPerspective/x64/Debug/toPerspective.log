@@ -1,0 +1,9 @@
+﻿  aruco_detector.cpp
+c:\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+c:\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+c:\users\sola\documents\visual studio 2015\projects\toperspective\toperspective\aruco_detector.cpp(16): warning C4101: 'ids': unreferenced local variable
+c:\users\sola\documents\visual studio 2015\projects\toperspective\toperspective\aruco_detector.cpp(17): warning C4101: 'positions': unreferenced local variable
+  toPerspective.vcxproj -> C:\Users\sola\Documents\Visual Studio 2015\Projects\toPerspective\x64\Debug\toPerspective.exe
+  toPerspective.vcxproj -> C:\Users\sola\Documents\Visual Studio 2015\Projects\toPerspective\x64\Debug\toPerspective.pdb (Full PDB)
